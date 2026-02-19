@@ -1,0 +1,26 @@
+# Node
+node_modules
+.next
+dist
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.venv
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+
+# Env / OS
+.env
+.env.local
+.DS_Store
+
+# Coverage / reports
+coverage/
+htmlcov/
+*.log
